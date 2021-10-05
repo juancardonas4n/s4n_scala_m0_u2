@@ -1,3 +1,2 @@
-ca-certificates
 openjdk-11-jre-headless
 graphviz
